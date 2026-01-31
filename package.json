@@ -1,6 +1,6 @@
 {
   "name": "@cryguy/mkv-subtitle-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract subtitle tracks and fonts from MKV files via URL using HTTP Range requests",
   "type": "module",
   "main": "./dist/index.cjs",
