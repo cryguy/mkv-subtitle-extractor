@@ -7,7 +7,7 @@ Uses HTTP Range requests to download only the bytes needed (typically ~3% of the
 ## Install
 
 ```bash
-npm install mkv-subtitle-extractor
+npm install @cryguy/mkv-subtitle-extractor
 ```
 
 ## Usage
