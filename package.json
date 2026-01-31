@@ -41,5 +41,14 @@
     "extract",
     "ebml"
   ],
-  "license": "MIT"
+  "author": "Shy <shy@shy.zone>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryguy/mkv-subtitle-extractor.git"
+  },
+  "homepage": "https://github.com/cryguy/mkv-subtitle-extractor#readme",
+  "bugs": {
+    "url": "https://github.com/cryguy/mkv-subtitle-extractor/issues"
+  }
 }
